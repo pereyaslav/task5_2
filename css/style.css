@@ -1,0 +1,36 @@
+TABLE {
+    border-collapse: collapse; /* Убираем двойные границы между ячейками */
+      } 
+
+TD, TH {
+    padding: 5px; /* Поля вокруг текста */
+    border: 3px solid #000; /* Рамка вокруг ячеек */
+    
+   }
+
+
+.hh{
+    padding-top: 40px;
+}
+
+.white{
+    color: white;   
+}
+
+.yellow{
+ color: yellow; 
+    background: yellow;
+}   
+.red{
+    color: red; 
+    background:red;
+}
+.black{
+   color:black; 
+    background: black; 
+}
+.blue{
+   color: blue;
+    background: blue;  
+}
+
